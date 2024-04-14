@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StreamAssignment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StreamAssignment_jar</output-path>
+    <root id="archive" name="assignment-four-java-streams-2021.jar">
+      <element id="module-output" name="assignment-four-java-streams-2021" />
+    </root>
+  </artifact>
+</component>
